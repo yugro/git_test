@@ -4,12 +4,12 @@ body{
 }
 
 h1{
-	size: 30px;
+	font-size: 80px;
 }
 
 body div{
 font-size: 25px;
-	background-color: yellow;
+	background-color: greenyellow;
 }
 p{
 	background-color: aqua;
