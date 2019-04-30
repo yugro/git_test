@@ -1,0 +1,14 @@
+body{
+	width: 900px;
+	margin: 0 auto;
+}
+
+h1{
+	size: 30px;
+}
+
+body div{
+font-size: 25px;
+	background-color: yellow;
+}
+
